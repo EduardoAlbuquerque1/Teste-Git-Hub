@@ -1,1 +1,1 @@
-app.js
+alert('Olá,mundo')
